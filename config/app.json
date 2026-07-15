@@ -1,0 +1,14 @@
+{
+  "appName": "Git Practice App",
+  "version": "0.1.0",
+  "theme": "light",
+  "features": {
+    "darkMode": false,
+    "notifications": true,
+    "analytics": false
+  },
+  "api": {
+    "baseUrl": "http://localhost:3000",
+    "timeout": 5000
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "git-practice-app",
+  "version": "0.1.0",
+  "description": "A fake app for practicing Git and GitHub",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/run-tests.js",
+    "lint": "node scripts/lint.js"
+  },
+  "keywords": ["git", "practice", "learning"],
+  "author": "You",
+  "license": "MIT"
+}

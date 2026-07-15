@@ -1,0 +1,12 @@
+Git Practice Notes
+==================
+
+Day 1: Learned git init, add, commit
+Day 2: Created first branch
+Day 3: Pushed to GitHub
+Day 4: Opened my first Pull Request
+
+Tips:
+- Write clear commit messages
+- Commit often, push regularly
+- Always pull before starting new work
